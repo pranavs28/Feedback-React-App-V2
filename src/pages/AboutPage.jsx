@@ -7,7 +7,7 @@ function AboutPage() {
         <div className="display-text">
             <h3>About:</h3>
             <p>This project is a feedback app designed as a React tool to add, update,
-                and delete feedback reviews in an end-to-end web application.
+                and delete feedback reviews from a JSON-Server mock backend API.
             </p>
             <br/>
             <Link to='/'>Back to Home</Link>
